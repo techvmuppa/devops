@@ -1,2 +1,2 @@
-# devops
-This repository helps you to become a zero to hero in  devops.
+# DevOps Master 
+This repository helps you to become a master in DevOps.
