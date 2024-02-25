@@ -1,0 +1,11 @@
+DevOps is like a teamwork approach for building and running software. It's all about getting developers and operations people to work closely together and use tools to make things smoother and faster.
+
+Certainly! Here's a more concise breakdown:
+
+Collaboration: Teamwork between developers and operations.
+Automation: Using tools to streamline tasks.
+Continuous Integration (CI): Regularly integrating code changes.
+Continuous Delivery (CD): Rapid and consistent software deployment.
+Infrastructure as Code (IaC): Managing infrastructure through code.
+Monitoring and Feedback: Continuous monitoring for performance.
+Microservices Architecture: Designing software as small, independent services.
